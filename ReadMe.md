@@ -204,19 +204,7 @@ This result demonstrates that strategic selection has negligible long-term impac
 
 ---
 
-## Repository Structure
 
-```text
-.
-├── BattleSimulation.ipynb
-├── README.md
-└── Results
-    ├── StrategyComparisons
-    ├── ProbabilityEstimates
-    └── MathematicalProof
-```
-
----
 
 ## Learning Outcomes
 
